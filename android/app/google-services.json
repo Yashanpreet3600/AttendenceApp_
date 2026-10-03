@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446849281202",
+    "project_id": "attendance-bbafa",
+    "storage_bucket": "attendance-bbafa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446849281202:android:f2c0d8456f681c73ea6dab",
+        "android_client_info": {
+          "package_name": "com.example.attendence_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0vZ1GSZZxwT0jQasZrnSlVbuVRtyqhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
